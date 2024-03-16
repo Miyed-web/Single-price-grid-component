@@ -122,7 +122,7 @@ body{
 
 
 
-@media (max-width:675px){
+@media screen and (max-width:675px){
   .container{
     width: 80%;
     
